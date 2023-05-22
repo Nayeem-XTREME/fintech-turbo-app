@@ -28,7 +28,7 @@ const InputField = forwardRef(
               endAdornment: (
                 <CircularProgress
                   size={20}
-                  className="mr-6 flex items-center justify-center text-primary-500"
+                  className="text-primary-500 mr-6 flex items-center justify-center"
                 />
               ),
             }),
